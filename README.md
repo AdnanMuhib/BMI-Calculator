@@ -1,5 +1,5 @@
 # BMI-Calculator
-BMI , Ideal Weight and FAT calculator in Java
+BMI i.e Body Mass Index Calculator , Ideal Weight and FAT calculator in Java
 ## REQUIREMENTS
 ![alt text](https://github.com/AdnanMuhib/BMI-Calculator/blob/master/Output/BMI%20Calculator.png)
 <br />
